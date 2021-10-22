@@ -1,4 +1,6 @@
 ﻿using System;
+using System.Collections.Generic;
+using System.Text;
 
 namespace DecodeString
 {
@@ -6,7 +8,14 @@ namespace DecodeString
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+        }
+    }
+
+    public class Solution {
+        public string DecodeString(string s)
+        {
+            
         }
     }
 }
